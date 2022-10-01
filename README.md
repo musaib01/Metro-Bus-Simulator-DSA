@@ -45,3 +45,22 @@ Here is a brief specification of the route building part of the program:
 5) Traversal motion is shown on the screen by drawing -> undrawing -> incrementally changing position until position is at next node coordinates.
 6) The bus only picks up those passengers who will go to stations next on route.
 7) If the bus encounters a station which is meant to be skipped, it will not pick or drop any passengers at that station.
+
+# Screenshots
+# Main Menu
+![Main Menu](https://user-images.githubusercontent.com/91963525/193408973-611bd007-ac30-413a-8116-53ce7bbb9a3e.png)
+
+# Station Menu
+![Station Menu](https://user-images.githubusercontent.com/91963525/193408990-75cd3c6b-9e91-4ff7-8704-0169a195a1ac.png)
+
+# Station List
+![Station List](https://user-images.githubusercontent.com/91963525/193409005-c5c54e06-c174-4606-bb41-01d08c7d3e3f.png)
+
+# Simulation
+![Simulation](https://user-images.githubusercontent.com/91963525/193409013-4fd1e74b-53f3-4ede-b5fa-66222f21839d.png)
+
+# Collaborators
+1) Qalb-e-Ali
+2) Syed Ali Raza
+3) Muhammad Tayyab
+4) Hamza Humayune
